@@ -1,5 +1,26 @@
-### Hi there 👋
+## Hola! 👋 Soy Fernando Armonelli Fiedler
 
+🤔 Hace un año que estoy dedicado 100 x 100 para convertirme en desarrollador web fullstack
+
+⚡ Actualmente mis conocimientos abarcan: 
+- HTML5 y CSS 3
+- Javascript
+- React
+- Node.js
+- MySQL
+- Metodologías Ágiles (scrum)
+
+🌱 Estoy profundizando mis estudios en desarrollo web con diferentes librerías Front End como: 
+- Bootstrap
+- JQuery
+- SASS
+- Redux
+
+🔭 Busco trabajar fuertemente mis habilidades y conocimientos para ingresar al mercado laboral como desarrollador web fullstack.
+
+💬 Me puedes contactar a mi correo (fernandoarmonelli@gmail.com) o en mi [Linkedin](https://www.linkedin.com/in/fernando-armonelli-fiedler-645819162/)
+
+📫 Este es mi [repo](https://github.com/fernandoarmonellifiedler/personal-projects) con mis proyectos destacados. Y aqui puedes encontrar [mi Portfolio](https://fernando-armonelli-fiedler.netlify.app) con algunos de mis proyectos personales
 <!--
 **fernandoarmonellifiedler/fernandoarmonellifiedler** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
