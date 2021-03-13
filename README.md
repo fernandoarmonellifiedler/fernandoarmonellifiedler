@@ -1,6 +1,6 @@
 ## Hola! 👋 Soy Fernando Armonelli Fiedler
----
-### 🤔 Hace un año que estoy dedicado completamente a convertirme en desarrollador web fullstack
+
+### 🤔 Hace un año que me dedico con pasión a convertirme en desarrollador web fullstack
 
 #### ⚡ Actualmente mis conocimientos abarcan: 
 - HTML5 y CSS 3
