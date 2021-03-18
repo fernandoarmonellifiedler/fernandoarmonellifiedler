@@ -16,7 +16,7 @@
 - SASS
 - Redux
 
-#### 🔭 Actualmente busco trabajar dedicado enteramente al desarrollado web mientras continuo a desarrollarme en mis capacidades.
+#### 🔭 Actualmente busco trabajar dedicado enteramente al desarrollado web que me permita crecer y convertirme en un excelente profesional.
 
 #### 💬 Me puedes contactar a mi correo (fernandoarmonelli@gmail.com) o en mi [Linkedin](https://www.linkedin.com/in/fernando-armonelli-fiedler-645819162/). Aprecio cualquier consulta que quieras hacerme.
 
