@@ -1,12 +1,12 @@
 ## Hola! 👋 Soy Fernando Armonelli Fiedler
 
-### 🤔 Hace un año que me dedico con pasión a convertirme en desarrollador web fullstack
+### 🤔 Soy un desarrollador web fullstack con conocimientos en React y Node.
 
 #### ⚡ Actualmente mis conocimientos abarcan: 
-- HTML5 y CSS 3
+- HTML5 y CSS3
 - Javascript
 - React
-- Node.js
+- Node
 - MySQL
 - Metodologías Ágiles (scrum)
 
