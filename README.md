@@ -16,7 +16,7 @@
 - SASS
 - Redux
 
-#### 🔭 Busco trabajar fuertemente mis habilidades y conocimientos para ingresar al mercado laboral como desarrollador web fullstack.
+#### 🔭 Actualmente busco trabajo dedicado enteramente al desarrollado web.
 
 #### 💬 Me puedes contactar a mi correo (fernandoarmonelli@gmail.com) o en mi [Linkedin](https://www.linkedin.com/in/fernando-armonelli-fiedler-645819162/). Aprecio cualquier consulta que quieras hacerme.
 
