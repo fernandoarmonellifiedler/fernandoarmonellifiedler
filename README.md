@@ -16,8 +16,6 @@
 - SASS
 - Redux
 
-#### 🔭 Actualmente busco trabajar dedicado enteramente al desarrollado web. Busco contribuir con un equipo en el que pueda probar mis habilidades mientras continúo desenvolviendo mis capacidades.
-
 #### 💬 Me puedes contactar a mi correo (fernandoarmonelli@gmail.com) o en mi [Linkedin](https://www.linkedin.com/in/fernando-armonelli-fiedler/). Aprecio cualquier consulta que quieras hacerme.
 
 #### 📫 Y aqui esta mi [repo](https://github.com/fernandoarmonellifiedler/personal-projects) con mis proyectos destacados. Puedes encontrar en [mi Portfolio](https://fernando-armonelli-fiedler.netlify.app) algunos de esos proyectos también.
