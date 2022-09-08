@@ -6,13 +6,14 @@
 - HTML5 y CSS3
 - Javascript
 - React
-- Node
+- Node Js
 - MySQL
 - Metodologías Ágiles (scrum)
 
-#### 🌱 Estoy profundizando mis estudios en desarrollo web con diferentes librerías Front End como: 
+#### 🌱 Estoy profundizando mis estudios en: 
+- Node.js y React / Next
+- Typescript + React
 - Bootstrap
-- JQuery
 - SASS
 - Redux
 
