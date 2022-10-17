@@ -11,7 +11,9 @@
 - Metodologías Ágiles (Scrum)
 
 #### 🌱 Actualmente me encuentro profundizando mis conocimientos en React/Node.js y Typescript + React. 
-- Me encuentro en la búsqueda de una posición que me permita dedicarme full time a React/Node.Js, stack que me fascina  y en el que me especializo permanentemente.
+
+#### Me encuentro en la búsqueda de una posición que me permita dedicarme full time a React/Node.Js, stack que me fascina  y en el que me especializo permanentemente.
+
 
 #### 💬 Me puedes contactar a mi correo (fernandoarmonelli@gmail.com) o en mi [Linkedin](https://www.linkedin.com/in/fernando-armonelli-fiedler/). Aprecio cualquier consulta que quieras hacerme.
 
