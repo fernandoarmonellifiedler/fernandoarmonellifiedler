@@ -2,20 +2,16 @@
 
 ### 🤔 Soy un desarrollador web fullstack con conocimientos en React y Node.
 
-#### ⚡ Actualmente mis conocimientos abarcan: 
+#### ⚡ Mis conocimientos abarcan: 
 - HTML5 y CSS3
 - Javascript
 - React
 - Node Js
-- MySQL
-- Metodologías Ágiles (scrum)
+- MySQL / Firebase / MongoDB
+- Metodologías Ágiles (Scrum)
 
-#### 🌱 Estoy profundizando mis estudios en: 
-- Node.js y React / Next
-- Typescript + React
-- Bootstrap
-- SASS
-- Redux
+#### 🌱 Actualmente me encuentro profundizando mis conocimientos en React/Node.js y Typescript + React. 
+- Me encuentro en la búsqueda de una posición que me permita dedicarme full time a React/Node.Js, stack que me fascina  y en el que me especializo permanentemente.
 
 #### 💬 Me puedes contactar a mi correo (fernandoarmonelli@gmail.com) o en mi [Linkedin](https://www.linkedin.com/in/fernando-armonelli-fiedler/). Aprecio cualquier consulta que quieras hacerme.
 
