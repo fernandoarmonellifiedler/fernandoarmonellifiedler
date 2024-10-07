@@ -1,10 +1,14 @@
 ## Hola! 👋 Soy Fernando Armonelli Fiedler
 
-#### Desarrollador full stack con 2 años de experiencia en Javascript, Twig (PHP template engine), React, Node.js, HTML y CSS. Me dedico principalmente al desarrollo de portales de gestión de personal para importantes empresas de Estados Unidos y Europa.
+#### Full Stack Developer con más de 3 años y medio de experiencia en desarrollo web, especializado en tecnologías como Javascript, React y Node.js. Mi pasión por el desarrollo se refleja en mi constante deseo de aprender y evolucionar. Activamente en búsqueda de oportunidades profesionales que me permitan aplicar y expandir mis habilidades en este completo stack.
 
-#### Soy un profesional altamente motivado y siempre busco conocer más allá de mi área de acción. Me encanta trabajar en grupos y crear ambientes de intercambio profesional y humano nutritivos. Creo profundamente en la colaboración como forma de elevar la calidad del trabajo. 
+#### Me caracterizo por ser altamente motivado, siempre dispuesto a ir más allá de mi área de acción para comprender a fondo los proyectos en los que participo. Disfruto colaborando en equipos y contribuyendo a la creación de entornos de trabajo enriquecedores tanto profesional como humanamente. Creo firmemente en la colaboración como catalizador para elevar la calidad del trabajo, convencido de que el todo es más que la simple suma de sus partes. ¡Estoy listo para aportar mi experiencia y pasión a proyectos desafiantes y colaborativos!
 
-#### Busco un trabajo 100% enfocado en React y Node.Js, stack que me fascina y en el que busco especializarme.
+#### Si te gustó mi perfil puedes contactarme a:
+fernandoarmonelli@gmail.com
+(+54) 351 685 4523
+
+[Linkedin](https://www.linkedin.com/in/fernando-armonelli-fiedler/)
 
 ----------------------------------------
 ### PROYECTOS DESTACADOS
@@ -18,10 +22,7 @@
 [Centro de e-Learning UTN FRBA - 2021](https://react-mybooks.netlify.app/)
 - Creé una App para préstamo de libros a diferentes personas utilizando una base de datos MySQL, Node para realizar peticiones al servidor y React para la interfaz gráfica. Stack tecnológico: React, Node, Express, API REST, MySQL.
 
-----------------------------------------
-#### 💬 Me puedes contactar a mi correo (fernandoarmonelli@gmail.com) o en mi [Linkedin](https://www.linkedin.com/in/fernando-armonelli-fiedler/). Aprecio cualquier consulta que quieras hacerme.
 
-### Saludos!
 <!--
 **fernandoarmonellifiedler/fernandoarmonellifiedler** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
